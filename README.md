@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome, fellow programmer!
+My name is Ortiz, I'm a Computer Science undergraduate and IT technician. I am currently learning full-stack web development, but I am also interesting in software engineering and game development. 
 
-<!--
-**ZitroU/ZitroU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>[!NOTE]
+> I'm still learning many things, so my project may be rather simple. Please keep that in mind!
 
-Here are some ideas to get you started:
+## My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  </kbd>
