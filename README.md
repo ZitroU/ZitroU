@@ -2,7 +2,7 @@
 
 My name is Ortiz, I'm a Computer Science undergraduate and IT technician. I am currently learning full-stack web development, but I am also interested in software engineering and game development.
 <br>
- 
+Feel free to contact me, I'm always looking for new opportunities to expand my skills and bigger my portfolio
 ## My Tech Stack
 
 <p style="display: inline-block;">
@@ -46,6 +46,10 @@ My name is Ortiz, I'm a Computer Science undergraduate and IT technician. I am c
     <img width="40px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Roblox_Corporation_2025_logo.svg/960px-Roblox_Corporation_2025_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
     <img width="40px" src="https://static.wikia.nocookie.net/the-desolate-hope/images/5/56/CF25_icon.png/revision/latest?cb=20250221003626" />
   </kbd>
+
+>[!NOTE]
+> I have knowledge in other languages and frameworks aside from these ( C, C++, C#, Java, Flask ) But these are the stacks I'm 
+> more confident in my skills in. Please keep that in mind.
 
 <p>
     <a href="https://github.com/ZitroU?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
