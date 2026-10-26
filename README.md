@@ -1,8 +1,30 @@
 <h1> Welcome, fellow programmer! <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
 
-My name is Ortiz, I'm a Computer Science undergraduate and IT technician. I am currently learning full-stack web development, but I am also interested in software engineering and game development.
+My name is Ortiz, I'm a Brazilian Computer Science undergraduate and IT technician. I am currently learning full-stack web development, but I am also interested in software engineering and game development.
 <br>
-Feel free to contact me, I'm always looking for new opportunities to expand my skills and bigger my portfolio
+Feel free to contact me, I'm always looking for new opportunities to expand my skills and bigger my portfolio.
+
+<table>
+   <thead>
+      <tr>
+         <th>My language Skills</th>
+          <th>My certificates</th>
+      </tr>
+      <tr>
+         <td>Portuguese C2</td>
+         <td>Native language.</td>
+      </tr>
+      <tr>
+         <td>English C2</td>
+         <td>To be added.</td>
+      </tr>
+      <tr>
+         <td>Spanish A2</td>
+         <td>To be added.</td>
+      </tr>
+   </thead>
+</table>
+
 ## My Tech Stack
 
 <p style="display: inline-block;">
@@ -49,7 +71,7 @@ Feel free to contact me, I'm always looking for new opportunities to expand my s
 
 >[!NOTE]
 > I have knowledge in other languages and frameworks aside from these ( C, C++, C#, Java, Flask ) But these are the stacks I'm 
-> more confident in my skills in. Please keep that in mind.
+> more confident in my skills in. Please keep that in mind!
 
 <p>
     <a href="https://github.com/ZitroU?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
